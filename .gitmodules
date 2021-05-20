@@ -1,0 +1,3 @@
+[submodule "external/ArenaSDK"]
+	path = external/ArenaSDK
+	url = https://github.com/dleliuhin/ArenaSDK.git
