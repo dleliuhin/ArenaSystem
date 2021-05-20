@@ -1,4 +1,4 @@
-# camera_lucid
+# ArenaSystem
 
 Wrapper for ArenaSDK.
 
